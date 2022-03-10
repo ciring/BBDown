@@ -2,6 +2,7 @@
 
 # BBDown
 一款命令行式哔哩哔哩下载器. Bilibili Downloader.
+push1
 
 # 注意
 本软件混流时需要外部程序：
